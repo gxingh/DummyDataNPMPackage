@@ -1,14 +1,17 @@
 {
  "name": "@iamtherealgd/dummydata",
- "version": "2.1.0",
+ "version": "2.1.1",
  "description": "Returns lorem ipsum dummy text",
  "license": "MIT",
- "repository": "iamtherealgd/DummyDataNPMPackage",
+ "repository": "iamtherealgd/dummydatanpmpackage",
  "main": "index.js",
  "keywords": [
   "DummyDataNPMPackage",
   "lorem",
   "ipsum",
   "text"
- ]
+ ],
+ "dependencies": {
+  "@iamtherealgd/dummydata": "^2.1.0"
+ }
 }
