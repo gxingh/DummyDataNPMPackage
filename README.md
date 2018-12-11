@@ -2,7 +2,7 @@
 npm package learning project.
 <br>
 <br>
-Return lorem ipsum text. Either single string or a list of strings.
+Returns lorem ipsum text. Either single string or a list of strings.
 <br>
 <br>
 <br>
