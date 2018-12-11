@@ -1,0 +1,14 @@
+{
+	"name":"@iamtherealgd/dummydata",
+	"version":"1.0.0",
+	"description": "Returns lorem ipsum dummy text",
+  	"license": "MIT",
+  	"repository": "iamtherealgd/DummyDataNPMPackage",
+  	"main": "index.js",
+  	"keywords": [
+    	"DummyDataNPMPackage",
+    	"lorem",
+    	"ipsum",
+    	"text"
+	]
+}
